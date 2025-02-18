@@ -12,7 +12,11 @@ Download the Jupyter Notebook file, run the Jupyter Notebook program (install it
 
 The function to find recommendations takes two parameters: The user query, and the number of recommendations desired. In the call to the function at the bottom of the notebook, either or both of these can be edited at will for different output.
 
+Here are a few potential queries:
 
+`provide_recommendations("I like action movies set in space", 5)`
+`provide_recommendations("I love romcoms", 3)`
+`provide_recommendations("I'm a big fan of murder mysteries", 4)`
 
 ## Results
 
@@ -22,8 +26,8 @@ The function to find recommendations takes two parameters: The user query, and t
 
  Based on your query, we think you'd enjoy the following movies:
 
-You provided us with the following query: "I like action movies set in space"
-This is how many recommendations you wanted: 5
+You provided us with the following query: "I like action movies set in space" <br>
+This is how many recommendations you wanted: 5 <br>
 Here are 5 movies we think you'll love. 
 
 Movie 1: "Gattaca". Similarity score: 0.2324916639956013.
