@@ -24,8 +24,6 @@ Here are a few potential queries:
 
 <b>System Output:</b>
 
- Based on your query, we think you'd enjoy the following movies:
-
 You provided us with the following query: "I like action movies set in space" <br>
 This is how many recommendations you wanted: 5 <br>
 Here are 5 movies we think you'll love. 
@@ -44,3 +42,6 @@ Movie description: "When a willful young man tries to venture beyond his sequest
 
 Movie 5: "Deep Impact". Similarity score: 0.16773760137379393. <br>
 Movie description: "A seven-mile-wide space rock is hurtling toward Earth, threatening to obliterate the planet. Now, it's up to the president of the United States to save the world. He appoints a tough-as-nails veteran astronaut to lead a joint American-Russian crew into space to destroy the comet before impact. Meanwhile, an enterprising reporter uses her smarts to uncover the scoop of the century." 
+
+## Monthly Salary Expectation
+My salary expectations are <span>&dollar;</span>30/hr, so this would be approximately (30/hr)(20hrs/week)(4.5weeks/month) = <span>&dollar;</span>2,700/month.
